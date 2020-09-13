@@ -6,10 +6,30 @@
     color: gray;
 }
 
+.back-button:hover {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 20px;
+    text-decoration: none;
+    color: black;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
 }
 
-table, th, td {
-    
+.center {
+    text-align: center;
+}
+
+.left {
+    display: inline-block;
+    text-align: left;
+    max-width: 35%;
+}
+
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
