@@ -20,3 +20,5 @@ I denne oppgaven skal dere etablere strukturen for nettsted i prosjektoppgaven �
 Minst to overskriftsnivåer.
 
 All HTML skal være korrekt og validere på http://validator.w3.org/. (Det er ok å ignorere valideringsfeil pga enkodingen (iso-8859-1 vs. windows-1252 vs. UTF-8), samt advarselen om at «html5 conformance checker» er eksperimentell men det skal ikke dukke opp andre feil og advarsler.)
+
+Det forventes ikke bruk av CSS i denne innleveringen, men om tiden strekker til kan dere godt prøve dere på bruk av float, position og visibility i CSS.
