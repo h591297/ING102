@@ -27,7 +27,7 @@ I denne CSS-filen forventes det at dere har med følgende:
 
 De eksisterende sidene skal oppdateres til å bruke stilarket nevnt ovenfor, og re-designes slik at de faktisk bruker disse stilene. Når dere er ferdig skal alle sidene ha et helhetlig utseende. Hovedsiden deres skal ha en meny med lenker som går til de aktuelle undersider, og alle sider skal minimum ha en lenke man kan klikke på som tar en tilbake til hovedsiden.
 
-Bruk **<div>** til å organisere de forskjellige strukturelle elementene på sidene deres.
+Bruk `<div>` til å organisere de forskjellige strukturelle elementene på sidene deres.
 
 
 #### Må være med på alle oppgåvene:
