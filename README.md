@@ -51,7 +51,7 @@ I denne oppgaven skal dere etablere strukturen for nettsted i prosjektoppgaven �
 #### Må være med på minst ein av oppgåvene:
 - Lister / nøstede lister
 - Tabell
-- Noen semantiske elementer som <.strong>, em, e.l.
+- Noen semantiske elementer som `<strong>`, `em`, e.l.
 - Bilder
 
 
