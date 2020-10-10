@@ -1,3 +1,42 @@
+# Web Innlevering Del 2
+Denne innlevering skal dere gjennomføre i form av en Scrum Sprint som dere har lært om i Prosjektdelen. Innleveringen skjer samtidig med innlevering i Prosjektdelen, og skal sees i sammenheng med den, selv om det tekniske og selve nettstedet omhandles og leveres separat her.
+
+------------
+### Oppgåver:
+
+#### 1. CSS
+
+All layout/design av hele nettstedet skal gjøres i en enkel CSS fil. Alle HTML-sidene skal benytte denne CSS-filen, og hensikten er at alle sidene skal ende opp med en helhetlig stil. CSS filen skal derfor inneholde et sett med stiler som skal være gyldige for alle sidene, IKKE ett sett med stiler som brukes på side A, et annet sett med stiler til bruk på side B og så videre. Det er helt naturlig at noen stiler bare vil bli brukt på en eller to av sidene, men hoved-designet skal være gjennomgående.
+
+I denne CSS-filen forventes det at dere har med følgende:
+
+- Bakgrunnsfarger og/eller bakgrunnsbilder
+
+- Rammer, marger og padding
+
+- Skriftstørrelser, skriftfarge og skrifttyper
+
+- Bruk av både type (tagger), klasse (class).
+
+- Bruk av ulike lister, tabeller etc.
+
+- Bruk av avansert posisjonering fra forelesningen
+
+
+#### 2. HTML
+
+De eksisterende sidene skal oppdateres til å bruke stilarket nevnt ovenfor, og re-designes slik at de faktisk bruker disse stilene. Når dere er ferdig skal alle sidene ha et helhetlig utseende. Hovedsiden deres skal ha en meny med lenker som går til de aktuelle undersider, og alle sider skal minimum ha en lenke man kan klikke på som tar en tilbake til hovedsiden.
+
+Bruk **<div>** til å organisere de forskjellige strukturelle elementene på sidene deres.
+
+
+#### Må være med på alle oppgåvene:
+- All HTML skal være korrekt og validere på http://validator.w3.org/. Det skal ikke være noen feil eller advarsler ved valideringen av noen type, med unntak om advarselen om at «html5 conformance checker» er eksperimentell som alltid dukker opp når vi sjekker en HTML5
+
+- All CSS skal være korrekt og validere på http://jigsaw.w3.org/css-validator/. Det skal ikke være noen advarsler eller feilmeldinger
+
+- Dere skal legge ved hele nettstedet deres som en zip-fil ved innleveringen, evt. korrekt lenke til github om dere benytter det. (dette av dokumentasjons hensyn
+
 # Web Innlevering Del 1
 I denne oppgaven skal dere etablere strukturen for nettsted i prosjektoppgaven «Nettsted for lading av el-båt» bestående av flere html-sider.
 
